@@ -46,7 +46,7 @@ Combat NPCs and your friends in battle with a wide arsenal of powerful moves, it
 - Global leaderboard
 - Can be sorted by a specific stat
 
-[**Click here to invite Challenger to your server!**](https://discord.com/oauth2/authorize?client_id=576181953372356638&scope=bot&permissions=272448)
+[**Click here to invite Challenger to your server!**](https://discordapp.com/api/oauth2/authorize?client_id=906270938113409054&scope=bot&permissions=288832)
 
 ---
 
